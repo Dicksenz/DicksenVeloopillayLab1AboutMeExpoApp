@@ -7,7 +7,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       <Header />
-      <SubHeader />
+      <SubHeader name="Dicksen Veloopillay" studentId="301255179" />
     </View>
   );
 };
